@@ -1,6 +1,6 @@
 # 🌸 Iris Flower Classification using Machine Learning
 
-An end-to-end **Machine Learning classification project** that predicts the species of an Iris flower from its physical measurements using **Logistic Regression** and **K-Nearest Neighbors (KNN)**.
+A simple **Machine Learning classification project** that predicts the species of an Iris flower from its physical measurements using **Logistic Regression** and **K-Nearest Neighbors (KNN)**.
 
 The project covers the complete workflow from **data loading and exploratory data analysis (EDA)** to **model training, evaluation, and deployment with Streamlit**.
 
